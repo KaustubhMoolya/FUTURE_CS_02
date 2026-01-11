@@ -1,0 +1,19 @@
+Alert A1:
+Multiple failed SSH login attempts from IP 203.0.113.45
+Severity: High
+Type: Brute Force Attack
+
+Alert A2:
+Port scanning detected from IP 198.51.100.22
+Severity: Medium
+Type: Reconnaissance
+
+Alert A3:
+Malware detected - Trojan.Generic
+Severity: High
+Type: Malware Infection
+
+Alert A4:
+Successful login from unknown IP 185.199.108.33
+Severity: Medium
+Type: Suspicious Login

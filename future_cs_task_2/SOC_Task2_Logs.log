@@ -1,0 +1,6 @@
+Jan 15 08:12:01 server sshd[1234]: Failed password for admin from 203.0.113.45
+Jan 15 08:12:04 server sshd[1234]: Failed password for admin from 203.0.113.45
+Jan 15 08:12:07 server sshd[1234]: Failed password for admin from 203.0.113.45
+Jan 15 09:30:22 firewall: Port scan detected from 198.51.100.22
+Jan 15 10:45:10 antivirus: Malware detected Trojan.Generic on user-PC
+Jan 15 11:05:55 server sshd[1300]: Successful login for user from unknown IP 185.199.108.33
